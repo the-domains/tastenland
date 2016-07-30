@@ -1,0 +1,14 @@
+layout_spectrum: 0.14164382219314575
+typography_spectrum: 0.7115215377416462
+color:
+  brandStrength: 0.6964919865131378
+  lightness: 0.8640523126814514
+  saturation: 0.9083424266427755
+  rhythmicContrast: 0.6160945727024227
+  brandColors:
+    - '#040404'
+    - '#FDB174'
+    - '#471807'
+    - '#894511'
+    - '#FFFFFF'
+name: tastenland
