@@ -6,9 +6,9 @@ color:
   saturation: 0.9083424266427755
   rhythmicContrast: 0.6160945727024227
   brandColors:
-    - '#040404'
-    - '#FDB174'
-    - '#471807'
-    - '#894511'
-    - '#FFFFFF'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: tastenland
