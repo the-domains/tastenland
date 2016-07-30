@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tastenland]]></title>
+        <description><![CDATA[tastenland]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jul 2016 14:28:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TRAVEL LOVE]]></title>
+            <description><![CDATA[<article><h1>TRAVEL LOVE</h1><p>This is Travel Footage from eight countries. Chile, Bolivia, Peru, Uruguay, Argentina, Vietnam, Cambodia and Thailand. Please, follow me on Facebook! It would be nice to have friends from all over the planet;) https://www.facebook.com/christian.grewe.75 + this one for more clips! https://www.facebook.com/chrisgreweffm.de?fref=ts Travel more and influence our world with positive energy!</p></article>]]></description>
+            <link>https://vimeo.com/71319358</link>
+            <guid isPermaLink="false">e19baf40-9af6-4509-bea9-23b77ac10102</guid>
+            <pubDate>Sat, 30 Jul 2016 14:27:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
