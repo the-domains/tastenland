@@ -1,4 +1,3 @@
-layout_spectrum: 0.14164382219314575
 typography_spectrum: 0.7115215377416462
 color:
   brandStrength: 0.6964919865131378
@@ -11,5 +10,10 @@ color:
     - '#471807'
     - '#894511'
     - '#FFFFFF'
+layout_spectrum: 0.14164382219314575
 name: tastenland
+navigation:
+  - name: My Piano Music
+    url: 'http://www.tastenland.de'
+    type: external
 title: Dietmar`s Music
