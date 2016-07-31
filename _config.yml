@@ -1,4 +1,4 @@
-typography_spectrum: 0.7115215377416462
+typography_spectrum: 0.9923209336120635
 color:
   brandStrength: 0.6964919865131378
   lightness: 0.8640523126814514
@@ -10,7 +10,7 @@ color:
     - '#471807'
     - '#894511'
     - '#FFFFFF'
-layout_spectrum: 0.14164382219314575
+layout_spectrum: 0.004943422740325332
 name: tastenland
 navigation:
   - name: My Piano Music
